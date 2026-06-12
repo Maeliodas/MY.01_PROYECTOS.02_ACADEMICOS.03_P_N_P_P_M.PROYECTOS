@@ -1,0 +1,9 @@
+[submodule "CURSO_FLUTTER"]
+	path = CURSO_FLUTTER
+	url = https://github.com/Maeliodas/CURSO_FLUTTER
+[submodule "FLUTTER_PROYECTOS/prueba"]
+	path = FLUTTER_PROYECTOS/prueba
+	url = https://github.com/Maeliodas/Maeliodas-MY.01_PROYECTOS.02_ACADEMICOS.03_P_N_P_P_M.PROYECTOS.FLUTTER_PROYECTOS.PRUEBA
+[submodule "FLUTTER_PROYECTOS/yes_no_app"]
+	path = FLUTTER_PROYECTOS/yes_no_app
+	url = https://github.com/Maeliodas/MY.01_PROYECTOS.02_ACADEMICOS.03_P_N_P_P_M.PROYECTOS.FLUTTER_PROYECTOS.YES_NO_APP
